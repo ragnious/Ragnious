@@ -1,0 +1,175 @@
+Help (Questions & Answers)
+
+How to open?
+It is already opened!!
+
+How it works?
+Just active the macro which you want to use.
+
+What does macro mean?
+Why did u buy it so? D":
+
+Macros does not work!!
+Make sure you...
+1-Have opened the program as administrator.
+2-Have activated the macro.
+3-Have set the correct number of counter sword slot.
+4-Have set the correct number of empty weapon slot.
+5-Have set the animation.
+6-Have set the delay of animation.
+7-Clicking on the right button of macro.
+8-Using them on S4 League.
+
+Some macros does not dodge?
+Make sure the language of keyboard is english.
+
+The animation does not work!!
+Make sure you have set the delay for it.
+
+What is the hide button does?
+It will hide your S4 League client.
+
+What is the show button does?
+It will hide your S4 League client.
+
+What is the destory button does?
+It will destory your S4 League client.
+
+What is the always on top does?
+It will make the program always on top when it is activated.
+
+I do not understand the buttons which you have added for the macros!!
+Check the list of hotkeys under the informations.
+
+Informations
+
+-There will be upcoming updates.
+-The program saving ur settings input after reload automatically.
+-The program does not show that you are using macro
+-When you active the macro it is button will be disabled around your pc and just working on S4 League.
+-Increasing the delay number of animations will slow the animation times.
+-To use Speed counter macro correctly you have to press on it is button and hold on right click (revenge) before any stab or dash.
+-Set 0 on counter sword slot if you wont it get the counter sword automatically.
+-You can change the buttons of macros by contacting me on Facebook which shown on the down of the program or use the Elitepvpers topic also you can use the S4DB chat.
+-If my facebook showed that the link is not correct you will have to log in using your account to find me.
+-Program version is 1.0
+
+List of Keys, and Mouse Buttons for Hotkeys.
+
+[Mouse]
+
+General
+LButton (Left mouse button)
+RButton (Right mouse button)
+MButton (Middle or wheel mouse button)
+
+Advanced
+XButton1 (4th mouse button)
+XButton2 (5th mouse button)
+
+Wheel
+WheelDown (Turn the wheel downward)
+WheelUp (Turn the wheel upward)
+WheelLeft & WheelRight (Scroll to the left or right)
+
+[Keyboard]
+
+Note: The names of the letter and number keys are the same as that single letter or digit. For example: b is the "b" key and 5 is the "5" key.
+
+General
+CapsLock (Caps lock)
+Space (Space bar)
+Tab (Tab key)
+Enter or Return (Enter key)
+Escape or Esc (Esc key)
+Backspace or BS (Backspace)
+
+Cursor Control
+ScrollLock (Scroll lock)
+Delete or Del (Delete key)
+Insert or Ins (Insert key)
+Home (Home key)
+End (End key)
+PgUp (Page Up key)
+PgDn (Page Down key)
+Up (Up arrow key)
+Down (Down arrow key)
+Left (Left arrow key)
+Right (Right arrow key)
+
+Numpad
+
+Due to system behavior, the following keys are identified differently depending on whether NumLock is ON or OFF. If NumLock is
+OFF but Shift is pressed, the system temporarily releases Shift and acts as though NumLock is ON. 
+
+NumLock ON   NumLock OFF
+ Numpad0      NumpadIns   (0 / Insert key)
+ Numpad1      NumpadEnd   (1 / End key)
+ Numpad2      NumpadDown  (2 / Down arrow key)
+ Numpad3      NumpadPgDn  (3 / Page Down key)
+ Numpad4      NumpadLeft  (4 / Left arrow key)
+ Numpad5      NumpadClear (5 / typically does nothing)
+ Numpad6      NumpadRight (6 / Right arrow key)
+ Numpad7      NumpadHome  (7 / Home key)
+ Numpad8      NumpadUp    (8 / Up arrow key)
+ Numpad9      NumpadPgUp  (9 / Page Up key)
+ NumpadDot    NumpadDel   (Decimal separation / Delete key)
+
+Not affected by NumLock
+NumLock (Number Lock)
+NumpadDiv (Divide)
+NumpadMult (Multiply)
+NumpadAdd (Add)
+NumpadSub (Subtract)
+NumpadEnter (Enter key)
+
+Function
+F1 - F24 (The 12 or more function keys at the top of most keyboards)
+
+Modifier
+LWin (Left Windows logo key)
+RWin (Right Windows logo key)
+Control or Ctrl (Control key)
+Alt (Alt key)
+Shift (Shift key)
+LControl or LCtrl (Left Control key)
+RControl or RCtrl (Right Control key)
+LShift (Left Shift key)
+RShift (Right Shift key)
+LAlt (Left Alt key)
+RAlt (Right Alt key)
+
+Multimedia
+Browser_Back (Back)
+Browser_Forward (Forward)
+Browser_Refresh (Refresh)
+Browser_Stop (Stop)
+Browser_Search (Search)
+Browser_Favorites (Favorites)
+Browser_Home (Homepage)
+Volume_Mute (Mute the volume)
+Volume_Down (Lower the volume)
+Volume_Up (Increase the volume)
+Media_Next (Next Track)
+Media_Prev (Previous Track)
+Media_Stop (Stop)
+Media_Play_Pause (Play/Pause)
+Launch_Mail (Launch default e-mail program)
+Launch_Media (Launch default media player)
+Launch_App1 (Launch My Computer)
+Launch_App2 (Launch Calculator)
+
+Note: The function assigned to each of the keys listed above can be overridden by modifying the Windows registry. This table
+shows the default function of each key on most versions of Windows.
+
+Special
+AppsKey (Menu key)
+PrintScreen (Print screen)
+CtrlBreak|Pause (Pause key)
+Break (Break key)
+Help (Help key)
+Sleep (Sleep key)
+SCnnn (Specify for nnn the scan code of a key)
+VKnn (Specify for nn the hexadecimal virtual key code of a key)
+
+#Ragnious
